@@ -1,2 +1,2 @@
-# Quote-generator-
+# Quote-generator
 my first web project :)
